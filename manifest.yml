@@ -1,0 +1,6 @@
+applications:
+- name: linkoxi
+  command: npm start
+  path: .
+  memory: 512M
+  instances: 1
